@@ -167,6 +167,7 @@
 * [GPTForSlides](https://www.gptforslides.app/) or [Chat-GPT-PPT](https://github.com/williamfzc/chat-gpt-ppt) - Presentation AIs
 * [EssayGen](https://github.com/daijro/EssayGen/) - Essay Writing AI
 * [Essaytyper](http://www.essaytyper.com/) - Essay Writing AI
+* [PerfectEssayWriter.ai](https://www.perfectessaywriter.ai/) - Essay Writing AI
 * [papertyper](https://papertyper.net/) - Essay Writing AI
 * [EssayBot](https://www.essaybot.com/) / [2](https://www.essayaibot.com/) - Essay Writing AI
 * [Chat GPTPhantom](https://chatgpt-phantom.vercel.app/) - Article Writing AI
